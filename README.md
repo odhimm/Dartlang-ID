@@ -3,8 +3,9 @@
     <img width="80" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png">
 </p>
 <h1>Dart Programming Language(Bahasa Indonesia)</h1>
+<h5>It's just my documenation to used dart as my favorite language.</h5>
 
-[dart.dev](https://dart.dev) | [Dart SDK](https://dart.dev/get-dart/archive) | [Dartlang.id(Soon)]() | [Dhimasarista](https://dhimasarista.com) | [Source]()
+[dart.dev](https://dart.dev) | [Dart SDK](https://dart.dev/get-dart/archive) | [Dhimasarista](https://dhimasarista.com)
 
 </div>
 <div align="left">
