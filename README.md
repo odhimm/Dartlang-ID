@@ -1,10 +1,10 @@
 <div align="center">
 <p>
-    <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
+    <img width="80" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png">
 </p>
 <h1>Dart Programming Language(Bahasa Indonesia)</h1>
 
-[dart.dev](https://dart.dev) | [Dart SDK](https://dart.dev/get-dart/archive) | [Changelog](https://github.com/vlang/v/blob/master/CHANGELOG.md) | [Speed](https://fast.vlang.io/) | [Contributing & compiler design](https://github.com/vlang/v/blob/master/CONTRIBUTING.md)
+[dart.dev](https://dart.dev) | [Dart SDK](https://dart.dev/get-dart/archive) | [Dartlang.id(Soon)]() | [Dhimasarista](https://dhimasarista.com) | [Source]()
 
 </div>
 <div align="left">
