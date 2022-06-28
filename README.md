@@ -17,3 +17,7 @@
 - Type inference: tipe data akan otomatis terdeteksi ketika sebuah variabel diinisialisasikan.
 - String Interpolation: fitur dimana kita bisa menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +).
 - Multi-paradigm: OOP & Functional.
+
+## Environment
+- Dart SDK
+- Code Editor [VisualStudioCode]
