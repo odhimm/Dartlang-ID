@@ -22,8 +22,9 @@ Boolean adalah suatu tipe data yang hanya mempunyai dua nilai. Yaitu true atau f
   - Symbol myVar = Symbol("My Name");
   - var Myvar = #symbol;
 
-5. Null
-  - null is data type to representation of blank data
-  create Null:
+## Null
+null adalah representasi tipe data kosong
+  #### Membuat null
+  untuk membuat null, pada tipe datanya harus ditambah tanda tanya (?) jika tidak compiler akan menampilkan error. Dan fitur null-safety ada pada folder terpisah.
   - dataType? myVar = null;
   - dataType? myVar;
