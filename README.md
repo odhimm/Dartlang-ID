@@ -14,7 +14,6 @@
 
 <h2>Karakteristik Dart</h2>
 - Statically typed: Kita perlu mendefinisikan variabel sebelum bisa menggunakannya.
-  - Type inference: tipe data akan otomatis terdeteksi ketika sebuah variabel diinisialisasikan.
-  - String Interpolation: fitur dimana kita bisa menyisipkan variabel kesebuah objek string tanpa
-    concatenation(penggabungan objek string menggunakan +).
-  - Multi-paradigm: OOP & Functional.
+- Type inference: tipe data akan otomatis terdeteksi ketika sebuah variabel diinisialisasikan.
+- String Interpolation: fitur dimana kita bisa menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +).
+- Multi-paradigm: OOP & Functional.
