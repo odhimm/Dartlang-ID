@@ -10,6 +10,7 @@
 ```
 var name = "Dhimas Arista";
 print("My Name is ${name}");
+//console: My Name is Dhimas Arista
 ```
 - Escape String: digunakan untuk mengurangi ambiguitas dari karakter didalam string menggunakan ```backslash (\)```.
 - Multiline String: 
