@@ -20,4 +20,4 @@
 
 ## Environment
 - Dart SDK
-- Code Editor [VisualStudioCode]
+- Code Editor: VSCode, DartPad, dan lain-lain.
