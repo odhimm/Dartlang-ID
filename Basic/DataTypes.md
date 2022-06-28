@@ -18,7 +18,7 @@ Boolean adalah suatu tipe data yang hanya mempunyai dua nilai. Yaitu true atau f
   - Symbol merupakan tipe data yang sebenarnya jarang sekali digunakan
   - Symbol sebenarnya bisa digunakan sebagai constant
   
-  ### Membuat Symbol
+  #### Membuat Symbol
   - Symbol myVar = Symbol("My Name");
   - var Myvar = #symbol;
 
