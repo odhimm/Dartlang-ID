@@ -12,12 +12,31 @@
 <p>Dart diperkenalkan pada 2011 dan diresmikan pada konferensi GOTO di Aarhus , Denmark,10-12 Oktober 2012. Proyek ini didirikan oleh Lars Bak dan Kasper Lund. Dart 1.0 dirilis pada 14 November 2013. Dart adalah object-oriented, class-bassed, garbage-collected language with C-style syntax. Dart adalah turunan dari keluarga bahasa ALGOL, bersama C, Java, C#, JavaScript, dan lainnya.</p>
 </div>
 
+```
+Catatan Dan Aturan:
+- Isi dokumentasi tidak sepenuhnya bahasa indonesia, karena kebanyakan bahasa pemrograman menggunakan bahasa inggris, maka dari itu menguasai bahasa inggris adalah wajib no debat.
+- Hati-hati dengan case-sensitive terutama camelCase yang.
+```
+
+## Pembahasan
+[Data Types]() | [Data Structures]() | [Data Items]() | [Operators]() | [Control Flow]() | [Function]() | [Object-Oriented]() | [Dart Generic]() | [Keyword]() |
+
 ## Karakteristik Dart
+- Dart menggunakan ekstensi .dart
 - Statically typed: Kita perlu mendefinisikan variabel sebelum bisa menggunakannya.
 - Type inference: tipe data akan otomatis terdeteksi ketika sebuah variabel diinisialisasikan.
 - String Interpolation: fitur dimana kita bisa menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +).
 - Multi-paradigm: OOP & Functional.
+- Komentar pada dart
+```
+// Single Line
+
+/*
+  Multi Line
+*/
+/// Coments for documenatation
+```
 
 ## Environment
 - [Dart SDK](https://dart.dev/get-dart/archive)
-- Code Editor: VSCode, DartPad, dan lain-lain.
+- Code Editor: [VSCode](https://code.visualstudio.com/), [DartPad](https://dartpad.dev/), dan lain-lain.
