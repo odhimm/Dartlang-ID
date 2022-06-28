@@ -6,7 +6,11 @@
 
 ## String
 - String dalam pemrograman komputer adalah sebuah deret simbol. Tipe data string adalah tipe data yang digunakan untuk menyimpan barisan karakter.
-- String Interpolation: menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +) menggunakan tanda dollar ${value} atau $value.
+- String Interpolation: menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +) menggunakan tanda dollar.
+```
+var name = "Dhimas Arista";
+print("My Name is ${name}");
+```
 - Escape String: digunakan untuk mengurangi ambiguitas dari karakter didalam string menggunakan ```backslash (\)```.
 - Multiline String: 
   ``` 
@@ -24,12 +28,16 @@ Boolean adalah suatu tipe data yang hanya mempunyai dua nilai. Yaitu true atau f
   - Symbol sebenarnya bisa digunakan sebagai constant
   
   #### Membuat Symbol
-  - Symbol myVar = Symbol("My Name");
-  - var Myvar = #symbol;
+  ```
+  Symbol myVar = Symbol("My Name");
+  var Myvar = #symbol;
+  ```
 
 ## Null
 null adalah representasi tipe data kosong
   #### Membuat null
   untuk membuat null, pada tipe datanya harus ditambah tanda tanya (?) jika tidak compiler akan menampilkan error. Dan fitur null-safety ada pada folder terpisah.
-  - dataType? myVar = null;
-  - dataType? myVar;
+  ```
+  dataType? myVar = null;
+  dataType? myVar;
+  ```
