@@ -1,31 +1,24 @@
-## Tipe Data
+# Tipe Data
 
-### Numbers
-- Integer
-    Bilangan Bulat
-- Double/float
-    Bilangan Decimal
+## Numbers
+- Integer: Bilangan Bulat
+- Double: Bilangan Desimal
 
-### String
-- String Interpolation: ${value} atau $value
-menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +).
-- Escape String
-    backslash (\) digunakan untuk mengurangi ambiguitas dari karakter didalam string.
-    cth: \character atau "\$ tanda dollar adalah karakter biasa bukan interpolasi"
-- Multiline String
-    ''' 
-    letakan teks diantara 3 tanda petik diatas dan bawah.
-    '''
+## String
+- String dalam pemrograman komputer adalah sebuah deret simbol. Tipe data string adalah tipe data yang digunakan untuk menyimpan barisan karakter.
+- String Interpolation: menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +) menggunakan tanda dollar ${value} atau $value.
+- Escape String: digunakan untuk mengurangi ambiguitas dari karakter didalam string menggunakan backslash[\].
+- Multiline String: '''letakan teks diantara 3 tanda petik diatas dan bawah.'''
 
-3. Boolean
-  - True
-  - False
+## Boolean
+Boolean adalah suatu tipe data yang hanya mempunyai dua nilai. Yaitu true atau false (benar atau salah). Pada beberapa bahasa pemograman nilai true bisa digantikan 1 dan nilai false digantikan 0.
 
-4. Symbol
+
+## Symbol
   - Symbol merupakan tipe data yang sebenarnya jarang sekali digunakan
   - Symbol sebenarnya bisa digunakan sebagai constant
   
-  create Symbol:
+  ### Membuat Symbol
   - Symbol myVar = Symbol("My Name");
   - var Myvar = #symbol;
 
