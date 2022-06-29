@@ -4,12 +4,8 @@
 </p>
 <h1>Dart Programming Language(Bahasa Indonesia)</h1>
 
-![Android](./assets/img/1.svg)
-![IOS](./assets/img/2.svg)
-![Code](./assets/img/3.svg)
-![MacOS](./assets/img/4.svg)
-![Windows](./assets/img/5.svg)
-![Linux](./assets/img/6.svg)
+![platform](./assets/img/frame.svg)
+
 
 <h5>It's just my documenation to used dart as my favorite language.</h5>
 
