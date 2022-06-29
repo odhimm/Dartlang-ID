@@ -2,7 +2,7 @@
 *Data Structure adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.*
 
 ## List/Array
-List(array pada bahasa pemrograman lain) adlaah suatu tipe data terstruktur yang dapat menyimpan banyak data dengan suatu nama yang sama dan menempati tempat di memori yang berurutan serta bertipe data sama atau campuran. List dapat diakses berdasarkan indeksnya.
+List(array pada bahasa pemrograman lain) adalah suatu tipe data terstruktur yang dapat menyimpan banyak data dengan suatu nama yang sama dan menempati tempat di memori yang berurutan serta bertipe data sama atau campuran. List dapat diakses berdasarkan indeksnya.
 #### Membuat List
 ```
 // List menggunakan tipe data sama

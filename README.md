@@ -3,6 +3,14 @@
     <img width="80" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png">
 </p>
 <h1>Dart Programming Language(Bahasa Indonesia)</h1>
+
+![Android](./assets/img/1.svg)
+![IOS](./assets/img/2.svg)
+![Code](./assets/img/3.svg)
+![MacOS](./assets/img/4.svg)
+![Windows](./assets/img/5.svg)
+![Linux](./assets/img/6.svg)
+
 <h5>It's just my documenation to used dart as my favorite language.</h5>
 
 [dart.dev](https://dart.dev) | [Dart SDK](https://dart.dev/get-dart/archive) | [Dhimasarista](https://dhimasarista.com)
@@ -10,7 +18,7 @@
 </div>
 <div align="left">
 <h2>Pengenalan Dart</h2>
-<p>Dart diperkenalkan pada 2011 dan diresmikan pada konferensi GOTO di Aarhus , Denmark,10-12 Oktober 2012. Proyek ini didirikan oleh Lars Bak dan Kasper Lund. Dart 1.0 dirilis pada 14 November 2013. Dart adalah object-oriented, class-bassed, garbage-collected language with C-style syntax. Dart adalah turunan dari keluarga bahasa ALGOL, bersama C, Java, C#, JavaScript, dan lainnya.</p>
+<p>Dart diperkenalkan pada 2011 dan diresmikan pada konferensi GOTO di Aarhus, Denmark, 10-12 Oktober 2012. Proyek ini didirikan oleh Lars Bak dan Kasper Lund. Dart 1.0 dirilis pada 14 November 2013. Dart adalah object-oriented, class-bassed, garbage-collected language with C-style syntax. Dart turunan dari keluarga bahasa ALGOL, bersama C, Java, C#, JavaScript, dan lainnya.</p>
 </div>
 
 
