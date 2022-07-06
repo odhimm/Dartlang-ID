@@ -7,7 +7,7 @@
 ![platform](./assets/img/frame.svg)
 
 
-<h5>It's just my documenation to used dart as my favorite language.</h5>
+<h5>It's just my documentation to used dart as my favorite language.</h5>
 
 [dart.dev](https://dart.dev) | [Dart SDK](https://dart.dev/get-dart/archive) | [Dhimasarista](https://dhimasarista.com)
 

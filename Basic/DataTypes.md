@@ -43,3 +43,21 @@ null adalah representasi tipe data kosong
   dataType? myVar = null;
   dataType? myVar;
   ```
+
+
+## Konversi Tipe Data
+- toString() : Melakukan konversi dari Number ke String
+
+- dataTypes.parse(): Konversi dari string ke Number ;
+```
+  var valueString = "100";
+  var valueInteger = int.parse(valueString);
+```
+
+- Konversi Boolean ke String, sebaliknya
+```
+  var valueString = "true";
+  var valueBoolean = valueString == "true";
+  // Sebaliknya
+  var stringFromBool = valueBoolean.toString();
+```

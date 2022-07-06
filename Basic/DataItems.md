@@ -1,4 +1,5 @@
 # Data Item
+*Data items adalah tempat penyimpanan tiap atribut dari sebuah entitas*
 
 - int 
 Digunakan untuk menyimpan tipe data integer/bilangan bulat.
